@@ -1,0 +1,35 @@
+{
+  "Web Developer": {
+    "steps": [
+      {
+        "title": "Learn HTML, CSS, JS",
+        "tools": ["VSCode", "Chrome DevTools"],
+        "projects": ["Personal Portfolio"],
+        "resources": [
+          {"type": "YouTube", "link": "https://youtube.com/playlist?list=PL..."},
+          {"type": "Book", "link": "https://eloquentjavascript.net/"}
+        ]
+      },
+      {
+        "title": "Learn React",
+        "tools": ["React", "Node.js"],
+        "projects": ["Todo App"],
+        "resources": [
+          {"type": "YouTube", "link": "https://youtube.com/playlist?list=PL..."}
+        ]
+      }
+    ]
+  },
+  "UI/UX Designer": {
+    "steps": [
+      {
+        "title": "Learn Design Basics",
+        "tools": ["Figma", "Adobe XD"],
+        "projects": ["Redesign a popular app"],
+        "resources": [
+          {"type": "YouTube", "link": "https://youtube.com/playlist?list=PL..."}
+        ]
+      }
+    ]
+  }
+} 

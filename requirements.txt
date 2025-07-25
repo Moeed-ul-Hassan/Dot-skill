@@ -1,0 +1,3 @@
+Flask
+flask-cors
+openai  # Only if you want AI counselor 
